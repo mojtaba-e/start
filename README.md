@@ -1,2 +1,2 @@
 # start
-First activity in git
+First activity in git.
